@@ -35,7 +35,7 @@ Previous versions: <a href="https://github.com/waydabber/BetterDisplay/releases/
 ## Key Features
 
 - **NEW:** Direct upscaling for built-in XDR displays on macOS 26.3+. *
-- **NEW:** Nits based normalized brightness syncing accross displays. *
+- **NEW:** Nits based normalized brightness syncing across displays. *
 - **NEW:** HDR capable and high-refresh rate virtual screens (requires compatible Macs). *
 - **NEW:** Forced HDR switch mode for some displays to achieve high refresh rate/high resolution HDR. *
 - **NEW:** Built-in LG webOS TV, Samsung Tizen TV, Philips Android TV and Yamaha AVR networked control support.
