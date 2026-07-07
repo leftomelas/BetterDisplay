@@ -3,9 +3,9 @@
 
 <h2>BetterDisplay Pro</h2>
 <p>Custom Resolutions, XDR/HDR Extra Brightness, Virtual Screens, Picture in Picture, Soft-Disconnect, Configuration and EDID overrides, DDC Control, Color Mode Selection, Syncing, Layout Protection and More!</p>
-<a href="https://github.com/waydabber/BetterDisplay/releases/download/v4.3.4/BetterDisplay-v4.3.4.dmg"><img src="https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="180" alt="Download for macOS"/></a><br/>
+<a href="https://github.com/waydabber/BetterDisplay/releases/download/v4.3.5/BetterDisplay-v4.3.5.dmg"><img src="https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="180" alt="Download for macOS"/></a><br/>
 <sub>
-<b>macOS 26 Tahoe, Sequoia, Sonoma, Ventura</b>: Download the <a href="https://github.com/waydabber/BetterDisplay/releases/download/v4.3.4/BetterDisplay-v4.3.4.dmg">current v4.3.4 release</a>.<br>
+<b>macOS 26 Tahoe, Sequoia, Sonoma, Ventura</b>: Download the <a href="https://github.com/waydabber/BetterDisplay/releases/download/v4.3.5/BetterDisplay-v4.3.5.dmg">current v4.3.5 release</a>.<br>
 <b>macOS 27 Golden Gate beta:</b> Go to Settings > Application > Updates and enable <b>Receive Internal Pre-Release</b>.<br>
 Previous versions: <a href="https://github.com/waydabber/BetterDisplay/releases/download/v3.5.6/BetterDisplay-v3.5.6b.dmg">v3.5.6</a> |
 <a href="https://github.com/waydabber/BetterDisplay/releases/download/v2.3.9/BetterDisplay-v2.3.9.dmg">v2.3.9</a> - macOS Monterey |
