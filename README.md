@@ -6,7 +6,7 @@
 <a href="https://github.com/waydabber/BetterDisplay/releases/download/v4.3.5/BetterDisplay-v4.3.5.dmg"><img src="https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="180" alt="Download for macOS"/></a><br/>
 <sub>
 <b>macOS 26 Tahoe, Sequoia, Sonoma, Ventura</b>: Download the <a href="https://github.com/waydabber/BetterDisplay/releases/download/v4.3.5/BetterDisplay-v4.3.5.dmg">current v4.3.5 release</a>.<br/>
-<b>macOS 27 Golden Gate public beta:</b> Download the <a href="https://github.com/waydabber/BetterDisplay/releases/download/v5.0.1/BetterDisplay-v5.0.1-pre-release.dmg">v5.0.1 pre-release</a>.<br/>
+<b>macOS 27 Golden Gate public beta:</b> Download the <a href="https://github.com/waydabber/BetterDisplay/releases/download/v5.0.2/BetterDisplay-v5.0.2-pre-release.dmg">v5.0.2 pre-release</a>.<br/>
 <b>macOS 27 developer beta:</b> Subscribe to the Internal Pre-Release updates under Settings > Application.<br>
 Previous versions: <a href="https://github.com/waydabber/BetterDisplay/releases/download/v3.5.6/BetterDisplay-v3.5.6b.dmg">v3.5.6</a> |
 <a href="https://github.com/waydabber/BetterDisplay/releases/download/v2.3.9/BetterDisplay-v2.3.9.dmg">v2.3.9</a> - macOS Monterey |
@@ -131,8 +131,8 @@ If you have any questions, search for answers under [Discussions](https://github
 
 ## Compatibility
 
-- The latest v5.x version of the app is compatible with **Apple Silicon** Macs running **macOS 27 Golden Gate** or **macOS 26 Tahoe** (26.3 or newer).
-- The latest v4.x version of the app is compatible with all **Apple Silicon** and **Intel** Macs running **macOS 27 Golden Gate**, **macOS 26 Tahoe**, **Sequoia**, **Sonoma** and **Ventura** (13.2 or newer).
+- The latest v5.x version of the app is compatible with all **Apple Silicon** and **Intel** Macs running **macOS 27 Golden Gate** or **macOS 26 Tahoe** (26.3 or newer).
+- The latest v4.x version of the app is compatible with all Macs running **macOS 27 Golden Gate**, **macOS 26 Tahoe**, **Sequoia**, **Sonoma** and **Ventura** (13.2 or newer).
 - The v3.5.6 version of the app supports **macOS Sequoia**, **Sonoma** and **Ventura** (13.2 or newer).
 - The latest stable v2.3.9 version of the app supports **macOS Sonoma**, **Ventura** and **Monterey** (12.4 or newer).
 - The v1.4.5 app version is compatible with **macOS Monterey**, **Big Sur**, **Catalina** and **Mojave**.
