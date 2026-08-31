@@ -6,7 +6,7 @@
 <a href="https://github.com/waydabber/BetterDisplay/releases/download/v4.3.6/BetterDisplay-v4.3.6.dmg"><img src="https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="180" alt="Download for macOS"/></a><br/>
 <sub>
 <b>macOS 26 Tahoe, Sequoia, Sonoma, Ventura</b>: Download the <a href="https://github.com/waydabber/BetterDisplay/releases/download/v4.3.6/BetterDisplay-v4.3.6.dmg">current v4.3.6 release</a>.<br/>
-<b>macOS 27 Golden Gate public beta:</b> Download the <a href="https://github.com/waydabber/BetterDisplay/releases/download/v5.0.3/BetterDisplay-v5.0.3-pre-release.dmg">v5.0.3 pre-release</a>.<br/>
+<b>macOS 27 Golden Gate public beta:</b> Download the <a href="https://github.com/waydabber/BetterDisplay/releases/download/v5.0.4/BetterDisplay-v5.0.4-pre-release.dmg">v5.0.4 pre-release</a>.<br/>
 <b>macOS 27 developer beta:</b> Subscribe to the Internal Pre-Release updates under Settings > Application.<br>
 Previous versions: <a href="https://github.com/waydabber/BetterDisplay/releases/download/v3.5.6/BetterDisplay-v3.5.6b.dmg">v3.5.6</a> |
 <a href="https://github.com/waydabber/BetterDisplay/releases/download/v2.3.9/BetterDisplay-v2.3.9.dmg">v2.3.9</a> - macOS Monterey |
@@ -35,11 +35,11 @@ Previous versions: <a href="https://github.com/waydabber/BetterDisplay/releases/
 
 ## Key Features
 
-- **NEW:** Direct upscaling for built-in XDR displays on macOS 26.3+. *
-- **NEW:** Nits based normalized brightness syncing across displays. *
-- **NEW:** HDR capable and high-refresh rate virtual screens (requires compatible Macs). *
-- **NEW:** Forced HDR switch mode for some displays to achieve high refresh rate/high resolution HDR. *
-- **NEW:** Built-in LG webOS TV, Samsung Tizen TV, Philips Android TV and Yamaha AVR networked control support.
+- Direct upscaling for built-in XDR displays on macOS 26.3+. *
+- Nits based normalized brightness syncing across displays. *
+- HDR capable and high-refresh rate virtual screens (requires compatible Macs). *
+- Forced HDR switch mode for some displays to achieve high refresh rate/high resolution HDR. *
+- Built-in LG webOS TV, Samsung Tizen TV, Philips Android TV and Yamaha AVR networked control support.
 - [Reach the full brightness potential of your XDR or HDR display](https://github.com/waydabber/BetterDisplay/wiki/XDR-and-HDR-brightness-upscaling) - XDR brightness upscale to 1600 nits, external HDR display brightness upscale depending on the display's capability. Color table (Apple Silicon) and Metal (Apple Silicon and Intel) methods are all supported. *
 - Color mode selector and unexposed refresh rates for Apple Silicon Macs** - change RGB, YCbCr, chroma subsampling, HDMI range settings.
 - Display group and synchronization features - sync brightness and other image controls among multiple displays!
